@@ -1,6 +1,6 @@
 # Postmortem debugging Go services with Delve
 
-**TODO**: link the text once published
+Read the article at https://blog.gopheracademy.com/advent-2018/postmortem-debugging-delve/
 
 ## Development
 
